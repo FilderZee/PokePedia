@@ -1,0 +1,17 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: scale 0.3s ease-in-out;
+
+}
+
+.button:hover {
+    background-color: #45a049;
+    scale: 1.1;
+    transition: scale 0.3s ease-in-out;
+}

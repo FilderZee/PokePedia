@@ -1,0 +1,31 @@
+.heading {
+    font-size: 4em;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+.info__container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2em;
+    font-size: 1.5em;
+}
+
+.input__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    margin-top: 2em;
+}
+
+.pokemon__img {
+    width: 200px;
+    height: 200px;
+}
+
+.info__text {
+    margin-top: .5em;
+}
